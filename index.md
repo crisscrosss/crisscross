@@ -7,11 +7,12 @@ Test
 _italic_
 ~~strikethrough~~
 
-#header 1
+# header 1
 
-##big header
+## big header
 
-###even bigger header
+### even bigger header
 
 Image
-! [testimage] (https://github.com/crisscrosss/crisscross/blob/jekyll/classic.png)
+
+![testimage](https://github.com/crisscrosss/crisscross/blob/jekyll/classic.png)
