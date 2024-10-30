@@ -222,7 +222,7 @@ dt {
 
         &.navtitle {
           float: left;
-          left: 20px;
+          z-index: 0;
         }
         
         &.downloads {
