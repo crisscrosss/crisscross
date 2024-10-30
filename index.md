@@ -15,4 +15,4 @@ _italic_
 
 Image
 
-![testimage](https://github.com/crisscrosss/crisscross/blob/jekyll/classic.png)
+![testimage](https://raw.githubusercontent.com/crisscrosss/crisscross/refs/heads/jekyll/classic.png)
