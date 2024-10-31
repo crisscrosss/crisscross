@@ -28,6 +28,17 @@
             </ul>
           </nav>
         </div><!-- end header -->
+    <div class="leftside">
+      <p>Related Posts</p>
+      <br>
+      <ul>
+        {% for post in site.related_posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+      
     <div class="wrapper">
 
       <section>
