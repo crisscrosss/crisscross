@@ -1,5 +1,7 @@
 ---
 layout: home
+title: testetststs
+description: Test but with spaces
 ---
 
 Test
